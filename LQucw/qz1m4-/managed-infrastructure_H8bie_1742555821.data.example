@@ -54,7 +54,6 @@ CLIENT_PRIVATE_KEY_GITHUB_APP=
 CLIENT_APP_ID_GITHUB_APP=
 
 # Sentry (optional) for monitoring errors
-SENTRY_DSN=
 
 # Infisical Cloud-specific configs
 # Ignore - Not applicable for self-hosted version
