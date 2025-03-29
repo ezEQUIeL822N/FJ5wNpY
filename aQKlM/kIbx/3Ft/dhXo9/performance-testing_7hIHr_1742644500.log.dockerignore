@@ -5,7 +5,6 @@ Dockerfile
 .git
 .gitignore
 *.sw[op]
-*.log
 .DS_Store
 .aider*
 .env*
