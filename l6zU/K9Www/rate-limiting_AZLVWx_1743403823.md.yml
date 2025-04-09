@@ -11,7 +11,6 @@ output:
   format: colored-line-number
 # Refer to https://golangci-lint.run/usage/linters
 linters-settings:
-  govet:
     # Disable analyzers by name.
     # Run `go tool vet help` to see all analyzers.
     disable:
