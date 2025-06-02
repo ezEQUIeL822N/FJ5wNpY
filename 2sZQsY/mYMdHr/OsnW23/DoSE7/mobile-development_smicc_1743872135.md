@@ -106,7 +106,6 @@
 * [Android] Remove use of @JvmDefault in favor of using -Xjvm-default=all by @psteiger in https://github.com/uber/RIBs/pull/576
 
 ### Version 0.15.2
-* [Android] Set view tree owners for RibActivity
 
 ### Version 0.15.3
 * Add RibCoroutineWorker.bind that receives multiple workers by @FranAguilera in https://github.com/uber/RIBs/pull/607
