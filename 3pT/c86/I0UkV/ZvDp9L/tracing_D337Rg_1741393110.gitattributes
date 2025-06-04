@@ -4,7 +4,6 @@
 *.sh text=auto eol=lf
 .*_profile text=auto eol=lf
 
-*.md text=auto eol=lf
 *.txt text=auto eol=lf
 
 *.yml text=auto eol=lf
